@@ -40,7 +40,7 @@ return [
         ],
         'request' => [
             'parsers' => [
-                'application/json' => 'yii\web\JsonParser',
+                'application/json' => 'yii\web\JsonParser',              
             ]
         ],
     ],
